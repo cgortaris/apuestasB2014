@@ -1,1 +1,3 @@
 *.swp
+db/credenciales.txt
+db/dbconfig.php
