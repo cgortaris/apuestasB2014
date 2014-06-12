@@ -1,0 +1,37 @@
+textarea {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+    width: 100%;
+}
+
+table thead tr th {
+    text-align: center;
+    vertical-align: middle;
+}
+
+table tbody tr td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+table.marcador tbody tr td {
+    text-align: center; 
+    vertical-align: middle;
+    padding: 4px;
+    margin: auto;
+}
+
+.marcador {
+    width: 25%;
+    margin: auto;
+}
+
+table.marcador tbody tr td input {
+    width: 4em;
+}
+
+img.flag {
+    height: 30%;
+}
